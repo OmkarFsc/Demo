@@ -9,7 +9,7 @@ public class ClientApp {
         System.out.println("ClientApp.main()");
         ProjectApp projectApp = new DevApp();
         projectApp.task1();
-        projectApp.task2();
+        projectApp.task3();
 
     }
 }
